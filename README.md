@@ -81,5 +81,5 @@ three flower species: Setosa, Versicolor, and Virginica.
 
 ## 👤 Author
 
-BHAVYA MATHUR  
+**BHAVYA MATHUR**  
 Synent Technologies — Data Science Intern
